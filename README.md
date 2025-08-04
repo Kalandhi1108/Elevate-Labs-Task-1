@@ -9,6 +9,7 @@ Tools Used
 - Nmap
 - GitHub
 
+
 Files Attached 
 nmap ip and port -jpg(screenshot)
 scan - jpg(screenshot)
@@ -23,6 +24,7 @@ teps Followed
 
 Identified Potential Vulnerability 
 Host: 172.18.194.18
+
 Open Ports:
 
 135/tcp (MSRPC)
