@@ -1,0 +1,32 @@
+# Nmap 7.97 scan initiated Mon Aug  4 14:22:37 2025 as: nmap -sS -oN scan.txt 172.18.194.8/24
+Nmap scan report for 172.18.194.96
+Host is up (0.0060s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE
+53/tcp open  domain
+MAC Address: 02:08:28:F9:60:46 (Unknown)
+
+Nmap scan report for 172.18.194.176
+Host is up (0.068s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT      STATE SERVICE
+53/tcp    open  domain
+49152/tcp open  unknown
+62078/tcp open  iphone-sync
+MAC Address: E2:86:7E:76:30:24 (Unknown)
+
+Nmap scan report for 172.18.194.229
+Host is up (0.11s latency).
+All 1000 scanned ports on 172.18.194.229 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 06:12:32:2F:33:39 (Unknown)
+
+Nmap scan report for 172.18.194.18
+Host is up (0.00074s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+
+# Nmap done at Mon Aug  4 14:26:51 2025 -- 256 IP addresses (4 hosts up) scanned in 254.48 seconds
